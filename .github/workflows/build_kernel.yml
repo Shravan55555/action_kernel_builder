@@ -10,7 +10,7 @@ on:
       KERNEL_BRANCH:
         description: 'Kernel branch'
         required: true
-        default: '14-test'
+        default: '14'
       KERNEL_NAME:
         description: 'Kernel/zip name'
         required: true
