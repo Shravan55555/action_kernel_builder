@@ -6,11 +6,11 @@ on:
       KERNEL_SOURCE:
         description: 'Kernel source URL'
         required: true
-        default: 'https://github.com/Shravan55555/kernel_realme_sdm710.git'
+        default: 'https://github.com/user-why-red/android_kernel_realme_sdm710_49.git'
       KERNEL_BRANCH:
         description: 'Kernel branch'
         required: true
-        default: '14'
+        default: 'stable-release'
       KERNEL_NAME:
         description: 'Kernel/zip name'
         required: true
